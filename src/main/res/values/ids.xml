@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cll" type="id" />
+    <item name="name" type="id" />
+    <item name="email" type="id" />
+    <item name="editTextPhone" type="id" />
+    <item name="editTextTextPostalAddress" type="id" />
+    <item name="calendarView" type="id" />
+    <item name="textView4" type="id" />
+    <item name="spinner" type="id" />
+    <item name="chipGroup" type="id" />
+    <item name="chip5" type="id" />
+    <item name="chip6" type="id" />
+    <item name="toggleButton" type="id" />
+    <item name="switch1" type="id" />
+    <item name="button3" type="id" />
+    <item name="textView" type="id" />
+</resources>
