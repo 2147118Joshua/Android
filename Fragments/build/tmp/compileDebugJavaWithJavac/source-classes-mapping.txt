@@ -1,0 +1,43 @@
+com/example/p4/Log.java
+ com.example.p4.Log
+com/example/p4/Adapter/OfferAdapter.java
+ com.example.p4.Adapter.OfferAdapter
+ com.example.p4.Adapter.OfferAdapter$OfferViewHOlder
+com/example/p4/Model/Clothing.java
+ com.example.p4.Model.Clothing
+com/example/p4/setprofile.java
+ com.example.p4.setprofile
+ com.example.p4.setprofile$1
+ com.example.p4.setprofile$1$1
+ com.example.p4.setprofile$2
+ com.example.p4.setprofile$3
+com/example/p4/splash_screen.java
+ com.example.p4.splash_screen
+ com.example.p4.splash_screen$1
+com/example/p4/MainActivity.java
+ com.example.p4.MainActivity
+com/example/p4/login.java
+ com.example.p4.login
+ com.example.p4.login$1
+com/example/p4/BuildConfig.java
+ com.example.p4.BuildConfig
+com/example/p4/info.java
+ com.example.p4.info
+com/example/p4/Adapter/ClothingAdapter.java
+ com.example.p4.Adapter.ClothingAdapter
+ com.example.p4.Adapter.ClothingAdapter$ClothingViewHOlder
+com/example/p4/suggestion.java
+ com.example.p4.suggestion
+com/example/p4/Model/BestSeller.java
+ com.example.p4.Model.BestSeller
+com/example/p4/Adapter/BestSellerAdapter.java
+ com.example.p4.Adapter.BestSellerAdapter
+ com.example.p4.Adapter.BestSellerAdapter$BestSellerViewHolder
+com/example/p4/data/about.java
+ com.example.p4.data.about
+com/example/p4/fragments/PizzaMenuFragment.java
+ com.example.p4.fragments.PizzaMenuFragment
+ com.example.p4.fragments.PizzaMenuFragment$1
+ com.example.p4.fragments.PizzaMenuFragment$OnItemSelectedListener
+com/example/p4/fragments/PizzaDetailFragment.java
+ com.example.p4.fragments.PizzaDetailFragment

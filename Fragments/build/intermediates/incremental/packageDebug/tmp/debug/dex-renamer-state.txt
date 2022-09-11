@@ -1,0 +1,4 @@
+#Mon Sep 12 01:32:06 IST 2022
+base.0=/Users/joshuasatlin/Desktop/MCA4/MA/P4/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
