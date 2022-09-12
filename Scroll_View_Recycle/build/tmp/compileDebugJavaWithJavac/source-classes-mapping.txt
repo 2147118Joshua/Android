@@ -1,0 +1,17 @@
+com/example/scrollview/Model/Clothing.java
+ com.example.scrollview.Model.Clothing
+com/example/scrollview/Model/BestSeller.java
+ com.example.scrollview.Model.BestSeller
+com/example/scrollview/Adapter/ClothingAdapter.java
+ com.example.scrollview.Adapter.ClothingAdapter
+ com.example.scrollview.Adapter.ClothingAdapter$ClothingViewHOlder
+com/example/scrollview/Adapter/OfferAdapter.java
+ com.example.scrollview.Adapter.OfferAdapter
+ com.example.scrollview.Adapter.OfferAdapter$OfferViewHOlder
+com/example/scrollview/BuildConfig.java
+ com.example.scrollview.BuildConfig
+com/example/scrollview/MainActivity.java
+ com.example.scrollview.MainActivity
+com/example/scrollview/Adapter/BestSellerAdapter.java
+ com.example.scrollview.Adapter.BestSellerAdapter
+ com.example.scrollview.Adapter.BestSellerAdapter$BestSellerViewHolder
